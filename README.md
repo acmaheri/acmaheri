@@ -1,6 +1,18 @@
 - 👋 Hi, I’m Allan Maheri
 - 👀 I’m interested in Autonomous Driving Software Stack
 - 🌱 I’m currently learning cloud-based solutions for connected autonomous driving vehicles
+  - Computer Vision
+    - Object detection
+    - Semantic Segmentation
+  - Sensor fusion
+    - 3D Object Detection
+    - Sensor Fusion and Object Detection
+  - Localization
+    - Scan Matching localization
+  - Planning
+    - Motion Planning and Decision Making for Autonomous Vehicles
+  - Control
+    - Control and Trajectory Tracking for Autonomous Vehicles
 - 💞️ I’m looking to collaborate on Automotive related software development projects.
 - 📫 You can reach me via eMail <acmaheri@outlook.com>
 
