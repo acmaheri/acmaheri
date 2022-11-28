@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Allan Maheri
 - 👀 I’m interested in Autonomous Driving Software Stack
-- 🌱  I’m currently learning cloud-based solutions for connected autonomous driving vehicles
-- 💞️ I’m looking to collaborate on an Automotive software development projects
+- 🌱 I’m currently learning cloud-based solutions for connected autonomous driving vehicles
+- 💞️ I’m looking to collaborate on Automotive related software development projects.
 - 📫 You can reach me via eMail <acmaheri@outlook.com>
 
 <!---
