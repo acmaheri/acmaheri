@@ -24,7 +24,7 @@
       - Control and Trajectory Tracking for Autonomous Vehicles
      -->
 - 🌱 I’m currently learning cloud-based solutions for connected autonomous driving vehicles
-- 👀  I’m looking to collaborate on Automotive model based software development projects.
+- 👀  I’m looking to collaborate on Automotive (model based/AUTOSAR) software development projects.
 - 📫 You can reach me via eMail <acmaheri@outlook.com>
 
 <!---
